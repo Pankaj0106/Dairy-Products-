@@ -12,3 +12,7 @@
   <li>Run <strong>Python manage.py migrate</strong></li>
   <li>Run <strong>Python manage.py runserver</strong></li>
 </ul>
+
+
+
+<h1>Enjoy!!</h1>
