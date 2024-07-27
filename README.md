@@ -1,1 +1,1 @@
-<h1>Dairy Site</h1>
+<h1 style="text-align:centre">Dairy Site</h1>
