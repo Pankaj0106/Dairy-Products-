@@ -2,6 +2,9 @@
 
 ---
 
+<h4>Install required packages</h4>
+<ul><li>Run <strong>pip install -r "requirement.txt"</strong></li></ul>
+
 <h4>To run the project</h4>
 <ul>
   <li>Delete old migrations</li>
